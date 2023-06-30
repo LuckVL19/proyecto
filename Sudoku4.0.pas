@@ -255,9 +255,9 @@ end.
             //Retornar Falso
         //Fin Si
     //Fin Para
-    //startRow <- 3 * ((fila - 1) / 3) + 1
+    //startfil <- 3 * ((fila - 1) / 3) + 1
     //startCol <- 3 * ((columna - 1) / 3) + 1
-    //Para cada i en [startRow, startRow + 2] hacer
+    //Para cada i en [startfil, startfil + 2] hacer
         //Para cada j en [startCol, startCol + 2] hacer
             //Si Tabla[i, j] = num entonces
                 //Retornar Falso
